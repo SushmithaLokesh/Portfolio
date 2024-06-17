@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5ad14ed.css",
+    "main.js": "/static/js/main.88c80504.js",
+    "static/media/resume.jpg": "/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/dress.jpg": "/static/media/dress.a5d17e54a5ffb19ff686.jpg",
+    "static/media/loki.jpg": "/static/media/loki.d842912ca6345f0c5a5a.jpg",
+    "static/media/sush.jpg": "/static/media/sush.153461aa06a0b2641ee5.jpg",
+    "static/media/hotel.jpg": "/static/media/hotel.76b535bc73b4ff5f59df.jpg",
+    "index.html": "/index.html",
+    "main.a5ad14ed.css.map": "/static/css/main.a5ad14ed.css.map",
+    "main.88c80504.js.map": "/static/js/main.88c80504.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ad14ed.css",
+    "static/js/main.88c80504.js"
+  ]
+}
